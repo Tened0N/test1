@@ -1,5 +1,5 @@
-resource "Talent_team_member" "" {
-  name        = "Elena Kim"
-  experience  = "15 years"
-  specialty   = "Space Medicine"
+resource "Talent_team_member" "Sargeras" {
+  name        = "Sargeras"
+  experience  = "200 years"
+  specialty   = "Erodar lord of the Burning Legion"
 }
