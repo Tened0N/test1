@@ -1,0 +1,5 @@
+resource "Talent_team_member" "Enache Alexandru" {
+  name        = "Enache Alexandru"
+  experience  = "10 years"
+  specialty   = "Spcialist on blow things"
+}
